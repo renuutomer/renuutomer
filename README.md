@@ -1,21 +1,27 @@
-- 👋 Hi, I’m @renuutomer
-- 👀 I’m a Full Stack Web Developer looking for work!
-- 🌱 I’m currently learning through Codecademy
-- 💞️ I’m looking to collaborate on projects involving HTML5/CSS3 | Python | JavaScript | PHP |
--  React | NodeJS | C#| Java | SQL | jQuery | Command Line I Git I Git Hub
+👋 Hi, I’m @renuutomer
 
-🛠  Languages and Tools
+**💻 Programming Languages & Technologies**
+🐍 Python – AI/ML, Data Science, Automation
+🗄️ SQL – Databases, Data Querying & Analysis
+☕ Java – Object-Oriented Programming, Backend Development
+⚛️ React – Frontend Development, AI-powered Web Apps
+📊 R / MATLAB – Statistical & Mathematical Computing
+🔧 Git & GitHub – Version Control & Collaboration
 
-JavaScript C++ Python 
-HTML5 CSS3 Sass JQuery React  
-Git GitHub Nodejs Npm 
+**🧠 Core AI & Technical Skills**
+- Machine Learning & Deep Learning
+- Neural Networks (CNNs, RNNs, Transformers)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Analysis & Visualizatio
+- Model Training, Evaluation & Optimization
+- Research Methods & Scientific Writing
+- Ethical & Responsible AI
 
-
-<!---
-renuutomer/renuutomer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
+**📚 Libraries & Frameworks**
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
+- TensorFlow, PyTorch
+- OpenCV
+- FastAPI / Flask
 
